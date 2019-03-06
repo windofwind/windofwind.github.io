@@ -3,10 +3,30 @@
     <title>개발이 뭐길래</title>
     <link href="https://windofwind.github.io/feed.xml" rel="self" />
     <link href="https://windofwind.github.io" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2019-03-06T12:43:12+09:00</updated>
     <author>
         <name>wind</name>
     </author>
     <id>https://windofwind.github.io</id>
 
+    <entry>
+        <title>새로 만들었다</title>
+        <author>
+            <name>wind</name>
+        </author>
+        <link href="https://windofwind.github.io/saero-mandeuleossda.html"/>
+        <id>https://windofwind.github.io/saero-mandeuleossda.html</id>
+
+        <updated>2019-03-06T12:43:07+09:00</updated>
+            <summary>
+                <![CDATA[
+                    새로 만들었어요 감사합니다.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                새로 만들었어요 감사합니다.
+            ]]>
+        </content>
+    </entry>
 </feed>
